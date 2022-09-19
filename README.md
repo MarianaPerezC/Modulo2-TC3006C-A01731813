@@ -1,6 +1,7 @@
 # Modulo2-TC3006C-A01731813
 
-Entrega: Análisis y Reporte sobre el desempeño del modelo. Entrega final 
+Entrega: Análisis y Reporte sobre el desempeño del modelo.
+
 Archivos: Notebook Desempeño del Modelo y PDF Desempeño del modelo
 
 
